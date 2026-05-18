@@ -1,0 +1,117 @@
+disease,status,positive_rows,negative_rows
+Influenza,trained,6,343
+Common Cold,trained,1,348
+Eczema,trained,3,346
+Asthma,trained,18,331
+Hyperthyroidism,trained,3,346
+Allergic Rhinitis,trained,1,348
+Anxiety Disorders,trained,3,346
+Diabetes,trained,5,344
+Gastroenteritis,trained,3,346
+Pancreatitis,trained,2,347
+Rheumatoid Arthritis,trained,3,346
+Depression,trained,3,346
+Liver Cancer,trained,4,345
+Stroke,trained,11,338
+Urinary Tract Infection,trained,2,347
+Dengue Fever,skipped,0,349
+Hepatitis,skipped,0,349
+Kidney Cancer,trained,2,347
+Migraine,trained,5,344
+Muscular Dystrophy,skipped,0,349
+Sinusitis,skipped,0,349
+Ulcerative Colitis,trained,3,346
+Bipolar Disorder,trained,1,348
+Bronchitis,trained,5,344
+Cerebral Palsy,trained,1,348
+Colorectal Cancer,trained,1,348
+Hypertensive Heart Disease,trained,1,348
+Multiple Sclerosis,trained,3,346
+Myocardial Infarction (Heart...,trained,1,348
+Urinary Tract Infection (UTI),trained,1,348
+Osteoporosis,trained,7,342
+Pneumonia,trained,5,344
+Atherosclerosis,skipped,0,349
+Chronic Obstructive Pulmonary...,skipped,0,349
+Epilepsy,skipped,0,349
+Hypertension,trained,5,344
+Obsessive-Compulsive Disorde...,skipped,0,349
+Psoriasis,trained,3,346
+Rubella,skipped,0,349
+Cirrhosis,trained,1,348
+Conjunctivitis (Pink Eye),trained,1,348
+Liver Disease,trained,2,347
+Malaria,trained,2,347
+Spina Bifida,trained,1,348
+Kidney Disease,trained,2,347
+Osteoarthritis,trained,3,346
+Klinefelter Syndrome,trained,2,347
+Acne,skipped,0,349
+Brain Tumor,skipped,0,349
+Cystic Fibrosis,skipped,0,349
+Glaucoma,skipped,0,349
+Rabies,skipped,0,349
+Chickenpox,trained,2,347
+Coronary Artery Disease,trained,3,346
+"Eating Disorders (Anorexia,...",trained,1,348
+Fibromyalgia,trained,1,348
+Hemophilia,trained,2,347
+Hypoglycemia,trained,1,348
+Lymphoma,trained,1,348
+Tuberculosis,trained,3,346
+Lung Cancer,trained,2,347
+Hypothyroidism,trained,4,345
+Autism Spectrum Disorder (ASD),skipped,0,349
+Crohn's Disease,trained,2,347
+Hyperglycemia,skipped,0,349
+Melanoma,skipped,0,349
+Ovarian Cancer,skipped,0,349
+Turner Syndrome,skipped,0,349
+Zika Virus,skipped,0,349
+Cataracts,trained,1,348
+Pneumocystis Pneumonia (PCP),trained,1,348
+Scoliosis,trained,1,348
+Sickle Cell Anemia,trained,1,348
+Tetanus,trained,2,347
+Anemia,skipped,0,349
+Cholera,skipped,0,349
+Endometriosis,skipped,0,349
+Sepsis,skipped,0,349
+Sleep Apnea,skipped,0,349
+Down Syndrome,trained,1,348
+Ebola Virus,trained,2,347
+Lyme Disease,trained,2,347
+Pancreatic Cancer,trained,1,348
+Pneumothorax,trained,1,348
+Appendicitis,skipped,0,349
+Esophageal Cancer,skipped,0,349
+HIV/AIDS,skipped,0,349
+Marfan Syndrome,skipped,0,349
+Parkinson's Disease,trained,2,347
+Hemorrhoids,trained,1,348
+Polycystic Ovary Syndrome (PCOS),trained,1,348
+Systemic Lupus Erythematosus...,trained,1,348
+Typhoid Fever,trained,2,347
+Breast Cancer,skipped,0,349
+Measles,skipped,0,349
+Osteomyelitis,skipped,0,349
+Polio,skipped,0,349
+Chronic Kidney Disease,trained,1,348
+Hepatitis B,trained,2,347
+Prader-Willi Syndrome,trained,1,348
+Thyroid Cancer,trained,1,348
+Bladder Cancer,skipped,0,349
+Otitis Media (Ear Infection),skipped,0,349
+Tourette Syndrome,skipped,0,349
+Alzheimer's Disease,trained,3,346
+Chronic Obstructive Pulmonary Disease (COPD),trained,2,347
+Dementia,trained,1,348
+Diverticulitis,trained,1,348
+Mumps,trained,2,347
+Cholecystitis,skipped,0,349
+Prostate Cancer,skipped,0,349
+Schizophrenia,skipped,0,349
+Gout,trained,1,348
+Testicular Cancer,trained,1,348
+Tonsillitis,trained,1,348
+Williams Syndrome,trained,1,348

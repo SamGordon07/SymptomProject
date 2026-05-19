@@ -1,0 +1,117 @@
+Disease,total,positive,negative
+Acne,1,0,1
+Allergic Rhinitis,6,1,5
+Alzheimer's Disease,5,3,2
+Anemia,1,0,1
+Anxiety Disorders,6,3,3
+Appendicitis,1,0,1
+Asthma,23,18,5
+Atherosclerosis,1,0,1
+Autism Spectrum Disorder (ASD),1,0,1
+Bipolar Disorder,1,1,0
+Bladder Cancer,1,0,1
+Brain Tumor,1,0,1
+Breast Cancer,1,0,1
+Bronchitis,8,5,3
+Cataracts,1,1,0
+Cerebral Palsy,1,1,0
+Chickenpox,2,2,0
+Cholecystitis,1,0,1
+Cholera,2,0,2
+Chronic Kidney Disease,1,1,0
+Chronic Obstructive Pulmonary Disease (COPD),4,2,2
+Chronic Obstructive Pulmonary...,1,0,1
+Cirrhosis,1,1,0
+Colorectal Cancer,1,1,0
+Common Cold,6,1,5
+Conjunctivitis (Pink Eye),1,1,0
+Coronary Artery Disease,5,3,2
+Crohn's Disease,5,2,3
+Cystic Fibrosis,1,0,1
+Dementia,1,1,0
+Dengue Fever,2,0,2
+Depression,6,3,3
+Diabetes,10,5,5
+Diverticulitis,1,1,0
+Down Syndrome,1,1,0
+"Eating Disorders (Anorexia,...",1,1,0
+Ebola Virus,2,2,0
+Eczema,6,3,3
+Endometriosis,1,0,1
+Epilepsy,1,0,1
+Esophageal Cancer,1,0,1
+Fibromyalgia,1,1,0
+Gastroenteritis,6,3,3
+Glaucoma,1,0,1
+Gout,1,1,0
+HIV/AIDS,2,0,2
+Hemophilia,2,2,0
+Hemorrhoids,1,1,0
+Hepatitis,3,0,3
+Hepatitis B,2,2,0
+Hyperglycemia,1,0,1
+Hypertension,10,5,5
+Hypertensive Heart Disease,1,1,0
+Hyperthyroidism,7,3,4
+Hypoglycemia,1,1,0
+Hypothyroidism,7,4,3
+Influenza,8,6,2
+Kidney Cancer,6,2,4
+Kidney Disease,5,2,3
+Klinefelter Syndrome,2,2,0
+Liver Cancer,6,4,2
+Liver Disease,5,2,3
+Lung Cancer,3,2,1
+Lyme Disease,2,2,0
+Lymphoma,1,1,0
+Malaria,2,2,0
+Marfan Syndrome,1,0,1
+Measles,2,0,2
+Melanoma,1,0,1
+Migraine,10,5,5
+Multiple Sclerosis,5,3,2
+Mumps,2,2,0
+Muscular Dystrophy,1,0,1
+Myocardial Infarction (Heart...,1,1,0
+Obsessive-Compulsive Disorde...,1,0,1
+Osteoarthritis,6,3,3
+Osteomyelitis,1,0,1
+Osteoporosis,14,7,7
+Otitis Media (Ear Infection),1,0,1
+Ovarian Cancer,1,0,1
+Pancreatic Cancer,1,1,0
+Pancreatitis,5,2,3
+Parkinson's Disease,5,2,3
+Pneumocystis Pneumonia (PCP),1,1,0
+Pneumonia,8,5,3
+Pneumothorax,1,1,0
+Polio,1,0,1
+Polycystic Ovary Syndrome (PCOS),1,1,0
+Prader-Willi Syndrome,1,1,0
+Prostate Cancer,1,0,1
+Psoriasis,5,3,2
+Rabies,2,0,2
+Rheumatoid Arthritis,6,3,3
+Rubella,2,0,2
+Schizophrenia,1,0,1
+Scoliosis,1,1,0
+Sepsis,1,0,1
+Sickle Cell Anemia,1,1,0
+Sinusitis,1,0,1
+Sleep Apnea,1,0,1
+Spina Bifida,1,1,0
+Stroke,16,11,5
+Systemic Lupus Erythematosus...,1,1,0
+Testicular Cancer,1,1,0
+Tetanus,2,2,0
+Thyroid Cancer,1,1,0
+Tonsillitis,1,1,0
+Tourette Syndrome,1,0,1
+Tuberculosis,3,3,0
+Turner Syndrome,2,0,2
+Typhoid Fever,2,2,0
+Ulcerative Colitis,5,3,2
+Urinary Tract Infection,5,2,3
+Urinary Tract Infection (UTI),3,1,2
+Williams Syndrome,1,1,0
+Zika Virus,2,0,2

@@ -1,0 +1,8 @@
+disease,mean_auc,std_auc,positive_rows
+Influenza,0.884,0.138,6
+Eczema,0.583,0.2,3
+Asthma,0.919,0.045,18
+Hyperthyroidism,0.816,0.26,3
+Anxiety Disorders,0.383,0.039,3
+Diabetes,0.385,0.098,5
+Gastroenteritis,0.384,0.023,3

@@ -3,7 +3,7 @@
 A machine learning web app that takes symptoms + patient profile data as input and outputs the most likely conditions ranked by confidence.
 
 ## Live App
-[Link will go here after deployment]
+https://symptomproject.streamlit.app/
 
 ## Project Overview
 Built using a One vs Rest Random Forest approach — training a separate binary classifier per disease — allowing the model to learn both what a disease looks like when confirmed and what it looks like when ruled out. The full data pipeline runs from a SQLite database through feature engineering and model training to a live deployed Streamlit app, with every user query logged back to the database. Built as a portfolio project to demonstrate the complete data science workflow from raw data to deployed product.
